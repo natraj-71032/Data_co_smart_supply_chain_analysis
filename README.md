@@ -385,6 +385,3 @@ The objective is not simply to build charts. It is to define the right business 
 
 ---
 
-**Author:** Add your name  
-**Role:** Aspiring Data Analyst  
-**Tools:** Excel | MySQL | Python | Power BI
